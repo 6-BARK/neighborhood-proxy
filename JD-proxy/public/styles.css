@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+#Photos {
+  display: inline-block;
+}
+
+#summary {
+  display: inline-block;
+}
